@@ -7,3 +7,14 @@ C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\
 C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.GenerateResource.Cache
 C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.exe
 C:\Users\Shawn Martin\Documents\Visual Studio 2015\Projects\Win_Calc\Win_CalcUI\obj\Debug\Win_CalcUI.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Win_CalcUI.exe.config
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Win_CalcUI.exe
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Win_CalcUI.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.AssemblyReference.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.CalculatorUI.resources
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.Properties.Resources.resources
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.GenerateResource.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.CoreCompileInputs.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.exe
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.pdb

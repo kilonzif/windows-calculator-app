@@ -1,0 +1,6 @@
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\bin\Debug\Win_CalcLibrary.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\bin\Debug\Win_CalcLibrary.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.csproj.AssemblyReference.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.csproj.CoreCompileInputs.cache
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcLibrary\obj\Debug\Win_CalcLibrary.pdb
