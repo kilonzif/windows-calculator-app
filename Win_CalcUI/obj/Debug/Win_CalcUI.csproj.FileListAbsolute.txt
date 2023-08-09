@@ -18,3 +18,15 @@ C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-F
 C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.CoreCompileInputs.cache
 C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.exe
 C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.pdb
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Appium.Net.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Castle.Core.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\WebDriver.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\WebDriver.Support.dll
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Appium.Net.xml
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Castle.Core.xml
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\WebDriver.xml
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\bin\Debug\WebDriver.Support.xml
+C:\Users\faith.kilonzi\OneDrive - Kenya Airways PLC\Desktop\KQProjects\Windows-Form-Calculator\Win_CalcUI\obj\Debug\Win_CalcUI.csproj.CopyComplete
